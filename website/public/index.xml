@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tin Ng&#39;s Personal blog</title>
+    <title>Tin Ng&#39;s personal blog</title>
     <link>http://tintrongnguyen.me/</link>
-    <description>Recent content on Tin Ng&#39;s Personal blog</description>
+    <description>Recent content on Tin Ng&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Tin Nguyen</copyright>
