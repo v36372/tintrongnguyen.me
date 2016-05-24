@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tin Ng&#39;s Personal blog</title>
+    <link>http://tintrongnguyen.me/</link>
+    <description>Recent content on Tin Ng&#39;s Personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tin Nguyen</copyright>
+    <lastBuildDate>Tue, 24 May 2016 18:57:44 +0700</lastBuildDate>
+    <atom:link href="http://tintrongnguyen.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first post. For testing</title>
+      <link>http://tintrongnguyen.me/posts/20160524/welcome/</link>
+      <pubDate>Tue, 24 May 2016 18:57:44 +0700</pubDate>
+      
+      <guid>http://tintrongnguyen.me/posts/20160524/welcome/</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;
+
+&lt;p&gt;Welcome to my blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://tintrongnguyen.me/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>http://tintrongnguyen.me/page/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;An engineer who writes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tintrongnguyen.me/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>http://tintrongnguyen.me/page/contact/</guid>
+      <description>
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;Drop me a buzz at &lt;a href=&#34;mailto:iam@tintrongnguyen.me&#34;&gt;iam@tintrongnguyen.me&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
