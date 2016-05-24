@@ -1,9 +1,9 @@
 baseurl = "http://tintrongnguyen.me/"
-title = "Tin Ng's Personal blog"
+title = "Tin Ng's personal blog"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Tin Nguyen"
-disqusShortname = "Tech"
+disqusShortname = "disqus-user"
 
 [Author]
     name = "Tin Nguyen"
@@ -14,8 +14,8 @@ disqusShortname = "Tech"
 
 [Params]
     intro = true
-    headline = "Warning"
-    description = "Adultery contents ahead. Please take cautions."
+    headline = ""
+    description = "The content is occasionally toxic and might causes heavy brain damage. Take cautions."
     github = "https://github.com/v36372"
     linkedin = "https://linkedin.com/in/tin-nguyen-trong-01448197/"
     twitter = "https://twitter.com/v36372"
