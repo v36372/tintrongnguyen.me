@@ -7,8 +7,8 @@ title = "A warmly welcome"
 Hi, welcome to my blog, where I expose my rage.
 
 First thing first, let's break the ice introducing myself. I'm an engineer and a writer wannanbe.
-Being an software engineer, a profession that most of the time dealing with others 
-problems. I often find myself caught up in a shithole of questioning my own existence.
+Being an software engineer, a profession that most of the time dealing with problems aren't mine. 
+Seriously, you either become an entrepreneur or end up being the slave.
 
 > "Why am I doing this? It isn't my own idea. The computer I use isn't even mine"  
 
