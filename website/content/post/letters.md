@@ -32,3 +32,5 @@ the battles inside my own head. I don't want to hurt your parents feelings as th
 *Best regards,*
 
 *T*
+
+*P/s: How's you parents doing? Is Mr. Government still lives alone? Send my regards for your parents,okay? You should take better care of them, I heard there's a virus called democracy going around.*
