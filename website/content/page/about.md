@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = 2015-04-03T02:13:50Z
-author = "Tin Nguyen"
+author = "T Ng"
 description = "Things about me."
 +++
 

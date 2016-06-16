@@ -1,28 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tin Ng&#39;s personal blog</title>
+    <title>T Ng&#39;s personal blog</title>
     <link>http://tintrongnguyen.me/</link>
-    <description>Recent content on Tin Ng&#39;s personal blog</description>
+    <description>Recent content on T Ng&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Tin Nguyen</copyright>
-    <lastBuildDate>Tue, 24 May 2016 18:57:44 +0700</lastBuildDate>
+    <copyright>T Ng</copyright>
+    <lastBuildDate>Wed, 15 Jun 2016 23:16:29 +0700</lastBuildDate>
     <atom:link href="http://tintrongnguyen.me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A warmly welcome</title>
-      <link>http://tintrongnguyen.me/posts/20160524/welcome/</link>
+      <title>The acid-free letter</title>
+      <link>http://tintrongnguyen.me/posts/20160615/letters/</link>
+      <pubDate>Wed, 15 Jun 2016 23:16:29 +0700</pubDate>
+      
+      <guid>http://tintrongnguyen.me/posts/20160615/letters/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Hi Education, my lady&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It&amp;rsquo;s surprising to realize that we&amp;rsquo;ve known each other for a really long time, yet this is the first time we talk, like really? Our first met was so humble that I hardly recognize you from the images.
+You was so complicated yet so beautiful. The way you could instantly tell whether
+a number is prime was so attractive that guys keep giving
+you arbitrary numbers just to hear your voice. I was in love, blindly. As time passes, I tried so
+hard to befriend with you. Make friend with the librarian, apprentice the most evil profs, kill the last light, I&amp;rsquo;ve done it all.
+Fortunately, it was okay, for a while. Until one day, your complexity hit me like a train. I knew that train would
+come one day, but damn &amp;hellip; that algorithm.
+&lt;img src=&#34;https://i.imgur.com/dFGKLIk.jpg&#34; alt=&#34;leo&#34; /&gt;
+You changed so fast I couldn&amp;rsquo;t even look you in the eyes, your beautiful
+eyes. Even thinking about you horrified me, I was suffocated as your big Os slowly appearing in my mind. Seeing you hanging
+out with other guys amplified the pain inside even more. Soon, my endurance maxed out and I dropped. You were my first, one-sided love,
+yet I cowardly turned tail and ran. How miserable is that? I let the gods decide. Today, I am writing this not to pledge empathy but to seek redemption for my own mistake.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s not that I dwell in the past or something, but this is a good occasion for me to do this.
+&lt;img src=&#34;http://i.imgur.com/oX5RRGN.gif&#34; alt=&#34;hart&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;As time passes, I entered university to be even more miserable. Like wtf? We went to the same school, again. I was drowning in
+the battles inside my own head. I don&amp;rsquo;t want to hurt your parents feelings as they asked me to take care of you, but on the other hand I would have to lie to myself doing so because frankly, I disgust you to my core. I thought you would become mature with uni, but no, somehow you leave your beauty back in highschool, you changed. At uni, you turn yourself into a joke, and I got news for you, it was not funny. The way I saw it, you and your friends was a big-ass joke walking around in the uni, while everyone else pretend to attentively listen and laugh. &amp;ldquo;Ha ha ha&amp;rdquo;. You guys made me sick. Ironically, doctors aren&amp;rsquo;t supposed to make me sick, but your friends did. The worst part is I was trapped in this rat race. In case you haven&amp;rsquo;t notice, your parents gave me money, a lot of money, just to look after you. I couldn&amp;rsquo;t give up, and it&amp;rsquo;s a bad thing. Couple months passed, I stopped whining and accepted the rules. I lied to myself playing your parents game, while try my best govern the rage inside. What&amp;rsquo;s worse than 2 faces liar? I let the gods decide.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I am sorry for putting all over you like this, I truly am. I know now, it is not entirely because of you that I become so toxic towards love matters. I&amp;rsquo;ve been single for 3 years, and it just recently that I open myself more than often. I&amp;rsquo;d met this girl, her name is W. Right now, dating with her make me feel good about myself, I&amp;rsquo;ll see how this goes. More importantly, I know now that your parents is the reason why we couldn&amp;rsquo;t be together, it&amp;rsquo;s not entirely your fault. But I can&amp;rsquo;t blame them too, parents always wish the best for their child, right? Okay, the letter&amp;rsquo;s getting long now, I better pause and reserve the good stuff for later. This is my first letter for you, there would be more, when the time comes. I am looking forward to your reply.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Best regards,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;T&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P/s: How&amp;rsquo;s you parents doing? Is Mr. Government still lives alone? Send my regards for your parents,okay? You should take better care of them, I heard there&amp;rsquo;s a virus called democracy going around.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First bricks</title>
+      <link>http://tintrongnguyen.me/posts/20160524/firstbricks/</link>
       <pubDate>Tue, 24 May 2016 18:57:44 +0700</pubDate>
       
-      <guid>http://tintrongnguyen.me/posts/20160524/welcome/</guid>
+      <guid>http://tintrongnguyen.me/posts/20160524/firstbricks/</guid>
       <description>
 
 &lt;p&gt;Hi, welcome to my blog, where I expose my rage.&lt;/p&gt;
 
-&lt;p&gt;First thing first, let&amp;rsquo;s break the ice introducing myself. I&amp;rsquo;m an engineer and a writer wannanbe.
-Being an software engineer, a profession that most of the time dealing with problems aren&amp;rsquo;t mine.
-Seriously, you either become an entrepreneur or end up being the slave.&lt;/p&gt;
+&lt;p&gt;First thing first, let&amp;rsquo;s break the ice introducing myself. My name is T&amp;hellip; Oh, I&amp;rsquo;m gonna stop you
+right there. It&amp;rsquo;s better we talk in the dark, or else our ugly prejudgement gonna ruin it. Also, who am I doesn&amp;rsquo;t really
+matter much cause I personally don&amp;rsquo;t seek popularity. So, just call me T. I&amp;rsquo;m an engineer and a writer wannabe.
+Being an software engineer, a profession that most of the time dealing with problems aren&amp;rsquo;t mine, I often get tired and wander around
+doing nonsense things. This is one of those times.
+I&amp;rsquo;m tired of being part of the system, a cog in a giant machine. Seriously, you either become an entrepreneur or end up being the slave.
+It hurts accepting the bare truth. So here I am, writing this bullshit just to calm myself down for awhile.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Why am I doing this? It isn&amp;rsquo;t my own idea. The computer I use isn&amp;rsquo;t even mine&amp;rdquo;&lt;/p&gt;

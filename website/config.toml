@@ -1,12 +1,12 @@
 baseurl = "http://tintrongnguyen.me/"
-title = "Tin Ng's personal blog"
+title = "T Ng's personal blog"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "Tin Nguyen"
+copyright = "T Ng"
 disqusShortname = "engineerlearnstowrite"
 
 [Author]
-    name = "Tin Nguyen"
+    name = "T Ng"
     profile = "http://tintrongnguyen.me/page/about"
 
 [Taxonomies]
@@ -17,7 +17,6 @@ disqusShortname = "engineerlearnstowrite"
     headline = "an enginner who writes"
     description = "The content is occasionally toxic and might causes heavy brain damage. Take cautions."
     github = "https://github.com/v36372"
-    linkedin = "https://linkedin.com/in/tin-nguyen-trong-01448197/"
     twitter = "https://twitter.com/v36372"
 
 [Permalinks]
