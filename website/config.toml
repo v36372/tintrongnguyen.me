@@ -15,7 +15,7 @@ disqusShortname = "engineerlearnstowrite"
 [Params]
     intro = true
     headline = "an engineer who writes"
-    description = "The content is occasionally toxic and might causes heavy brain damage. Take cautions."
+    description = ""
     github = "https://github.com/v36372"
     twitter = "https://twitter.com/v36372"
 
