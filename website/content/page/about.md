@@ -20,7 +20,7 @@ There's something about crafting sentences that lures me into creating this blog
 I personally think the choice of words is art. 
 Strangely, I can't write in my mother tongue, yet, the feeling of cringing keeps striking me. 
 It's something I definitely should work on, as this practice of literacy possibly be my main activity in the next 10 years.
-And writing in English is not a good good approach for a non-native speaker, in a country that doesn't speak the language.
+And writing in English is not a good approach for a non-native speaker, in a country that doesn't speak the language.
 At the moment, I'm enjoying the freedom of burden and write whatever I want. 
 But in the long run, screenwriting is what I'm aiming for.
 
