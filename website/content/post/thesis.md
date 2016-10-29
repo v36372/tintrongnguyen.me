@@ -36,7 +36,7 @@ He suddenly grabbed my shoulder:
 > Now leave!
 
 So I swam back the the land, where I could be calm and thinking clearly. Actually, I didn't think a bit. I went straight
-into coding mode, applying my programming kungfu to illustrate the way Fourier transforms work. After 1 week, I came back
+into coding mode, applying my programming kung-fu to illustrate the way Fourier transforms work. After 1 week, I came back
 the ship with a Golang AK47 rifle that left the captain in awe. 
 With this awesome firepower, the project was basically done. A good understanding
 of audio and the methods to manipulate it is crucial. It gave me the confidence and intuition to read papers and
@@ -48,7 +48,7 @@ something subtle but lethal when executed right.
 
 The captain shouted out loud:
 
-> The prirates are coming! Prepare to melee combat!
+> The pirates are coming! Prepare to melee combat!
 
 He turned to me:
 
@@ -64,7 +64,7 @@ The brave heart slapped me in the face:
 
 > Now go go go!
 
-I went back and apprenticed a blacksmith undercover swordmaster. He tought me the art of sword fighting and gave the
+I went back and apprenticed a blacksmith undercover sword master. He tought me the art of sword fighting and gave the
 legendary sword LaTex to fight the pirates. So again, I rushed back to the fleeing ship to rescue my beloved captain and
 crew.
 
@@ -77,11 +77,11 @@ when time is out of the equation, otherwise Google Docs is your best bet.
 
 > Tough times never last, only tough people do.
 
-After writing is printing, ofcourse. Every details had to be the same as it is required. A word of advice, prepare the
+After writing is printing, of course. Every details had to be the same as it is required. A word of advice, prepare the
 layout and format of the cover as many printing firms don't have a ready template. I recommend the 
 [Lam Son](http://www.inlamson.com.vn/) photocopy and printing shop.
 
-Finally, the day of rekoning, when I had to defend against a group of elite professors and doctors. I was all in for the
+Finally, the day of reckoning, when I had to defend against a group of elite professors and doctors. I was all in for the
 technical aspect of my project. By that, I pushed the demo project to the internet, even the slides are made in a very
 geeky way. The objective was to showcase the strength of engineering, though until now I doubt any member of the board 
 realized that.
