@@ -12,7 +12,7 @@ Hello again.
 It's been a while I'm not publishing anything. My small little blog seems a little dusty I feel sticky
 typing this new post. The past 6 months was wild, filled with events shall never fade. 
 
-I finished my thesis project and succesfully defended it against a board. A+ was a fair trade for the hardship I'd been
+I finished my thesis project and successfully defended it against a board. A+ was a fair trade for the hardship I'd been
 enduring for half a year. My graduation thesis was about Digital Signal Processing, a territory I'd never set foot on.
 
 At first it was uncomfortable since even with the sincere guidance from Mr. Nhut, my thesis instructor, I couldn't get a 
@@ -64,7 +64,7 @@ The brave heart slapped me in the face:
 
 > Now go go go!
 
-I went back and apprenticed a blacksmith undercover sword master. He tought me the art of sword fighting and gave the
+I went back and apprenticed a blacksmith undercover sword master. He taught me the art of sword fighting and gave the
 legendary sword LaTex to fight the pirates. So again, I rushed back to the fleeing ship to rescue my beloved captain and
 crew.
 
@@ -87,10 +87,10 @@ geeky way. The objective was to showcase the strength of engineering, though unt
 realized that.
 
 In the demo, I chose the popular song at that point `We don't talk anymore` to perform audio watermarking. It was a
-reckless move I rekon. But fortunately it yielded warming results.
+reckless move I reckon. But fortunately it yielded warming results.
 
 After 6 months doing research, I can firmly say that, I'd never do this again, ever. To be fair, it was a nice to have
-and one time only experience, expecially when I'm at the gate of adulthood. The returned attributes are invaluable for
+and one time only experience, especially when I'm at the gate of adulthood. The returned attributes are invaluable for
 whom intend to apply for post grad school. However, it's not for me.
 
 I would like to thank Mr. Minh-Nhut Ngo, my instructor, for this wonderful tryout in the DSP field. It gave me nightmares
