@@ -1,12 +1,16 @@
 baseurl = "http://tintrongnguyen.me/"
-title = "T Ng's personal blog"
+title = "after 2 beers"
+paginate = 5 # The number of posts to show before paginating
 theme = "ghostwriter"
+enableRobotsTXT = true
+googleAnalytics = ""
+#SectionPagesMenu = "main"
 languageCode = "en-us"
-copyright = "T Ng"
+copyright = "T NG"
 disqusShortname = "engineerlearnstowrite"
 
 [Author]
-    name = "T Ng"
+    name = "T NG"
     profile = "http://tintrongnguyen.me/page/about"
 
 [Taxonomies]
@@ -14,25 +18,31 @@ disqusShortname = "engineerlearnstowrite"
 
 [Params]
     intro = true
-    headline = "an engineer who writes"
-    description = ""
+    HeaderUsername = "iam"
+    HeaderHostname = "tintrongnguyen"
+    headline = "after 2 beers blogging"
+    author = "Tin NG"
+    show_menu = true 
+    powered_by = true
+    description = "Possibly quit coding and invest in writing in the next 10 years."
+    
     github = "https://github.com/v36372"
     twitter = "https://twitter.com/v36372"
 
 [Permalinks]
     post = "posts/:year:month:day/:filename/"
-
+  
 [[menu.main]]
-    name = "Blog"
+    name = "blog"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Contact"
+    name = "contact"
     url = "/page/contact/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "about"
     url = "/page/about/"
     weight = 3

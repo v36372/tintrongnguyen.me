@@ -1,14 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T Ng&#39;s personal blog</title>
+    <title>after 2 beers</title>
     <link>http://tintrongnguyen.me/</link>
-    <description>Recent content on T Ng&#39;s personal blog</description>
+    <description>Recent content on after 2 beers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>T Ng</copyright>
-    <lastBuildDate>Wed, 15 Jun 2016 23:16:29 +0700</lastBuildDate>
+    <copyright>T NG</copyright>
+    <lastBuildDate>Sat, 29 Oct 2016 02:40:55 +0700</lastBuildDate>
     <atom:link href="http://tintrongnguyen.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>6 months a sailor</title>
+      <link>http://tintrongnguyen.me/posts/20161029/professionalism/</link>
+      <pubDate>Sat, 29 Oct 2016 02:40:55 +0700</pubDate>
+      
+      <guid>http://tintrongnguyen.me/posts/20161029/professionalism/</guid>
+      <description>&lt;p&gt;Hello again.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s been a while I&amp;rsquo;m not publishing anything. My small little blog seems a little dusty I feel sticky
+typing this new post. The past 6 months was wild, filled with events shall never fade.&lt;/p&gt;
+
+&lt;p&gt;I finished my thesis project and succesfully defended it against a board. A+ was a fair trade for the hardship I&amp;rsquo;d been
+enduring for half a year. My graduation thesis was about Digital Signal Processing, a territory I&amp;rsquo;d never set foot on.&lt;/p&gt;
+
+&lt;p&gt;At first it was uncomfortable since even with the sincere guidance from Mr. Nhut, my thesis instructor, I couldn&amp;rsquo;t get a
+gasp of what to do. The Fourier series and all kind of transforms did their best morphing me into a DSP research student,
+but all failed. That was when I know this academic journey wasn&amp;rsquo;t for me and I needed a different approach. It&amp;rsquo;s not
+sticks and stones that can win this thesis battle, especially this engineering project. I needed brute force. Guns.&lt;/p&gt;
+
+&lt;p&gt;The thesis boat had sailed but stranded. The worried instructor helplessly turned to me, his first research student,
+and said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We&amp;rsquo;re getting overpowered. You should swim back to land. I&amp;rsquo;ll defend those academica monsters for ya.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I hesitated:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;But your Fourier cannons won&amp;rsquo;t last long, you could di&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He suddenly grabbed my shoulder:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Listen to me son, it&amp;rsquo;s my fault bringing you on this wrong fight. But you deserve another chance to battle the right one.&lt;/p&gt;
+
+&lt;p&gt;Now leave!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So I swam back the the land, where I could be calm and thinking clearly. Actually, I didn&amp;rsquo;t think a bit. I went straight
+into coding mode, applying my programming kungfu to illustrate the way Fourier transforms work. After 1 week, I came back
+the ship with a Golang AK47 rifle that left the captain in awe.
+With this awesome firepower, the project was basically done. A good understanding
+of audio and the methods to manipulate it is crucial. It gave me the confidence and intuition to read papers and
+implement them. It wasn&amp;rsquo;t long before I slain the thesis with my rifle.&lt;/p&gt;
+
+&lt;p&gt;But I was wrong. In research field, it&amp;rsquo;s not experimenting but writing that drives you crazy. I spent 1 month completing
+the project, and 5 months to present it in a scientific way. And a rifle was not the right weapon, again. I needed
+something subtle but lethal when executed right.&lt;/p&gt;
+
+&lt;p&gt;The captain shouted out loud:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The prirates are coming! Prepare to melee combat!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He turned to me:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Your magic won&amp;rsquo;t work now, son. You better go back, I&amp;rsquo;ll fight them for ya.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I felt bad:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Let me look for more Go packages. I can stil&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The brave heart slapped me in the face:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Listen to me nerd! There&amp;rsquo;s no open source copy-paste that can save you now. But you have to be alive to save us!&lt;/p&gt;
+
+&lt;p&gt;Now go go go!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I went back and apprenticed a blacksmith undercover swordmaster. He tought me the art of sword fighting and gave the
+legendary sword LaTex to fight the pirates. So again, I rushed back to the fleeing ship to rescue my beloved captain and
+crew.&lt;/p&gt;
+
+&lt;p&gt;It was mayhem. I used LaTex to write my little thesis, it&amp;rsquo;s
+an okay choice. Yeah, it&amp;rsquo;s nice to have beautiful format, professional looking document, but who cares, really. After
+scrapping the brain for ideas, how to present them, I had to go deeper in hell writing LaTex in
+&lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;SublimeText&lt;/a&gt;. And guess what,
+when a syntax or semantic error pops up, only God knows where it crashes your document. Lesson learnt. Only trust LaTex
+when time is out of the equation, otherwise Google Docs is your best bet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tough times never last, only tough people do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After writing is printing, ofcourse. Every details had to be the same as it is required. A word of advice, prepare the
+layout and format of the cover as many printing firms don&amp;rsquo;t have a ready template. I recommend the
+&lt;a href=&#34;http://www.inlamson.com.vn/&#34;&gt;Lam Son&lt;/a&gt; photocopy and printing shop.&lt;/p&gt;
+
+&lt;p&gt;Finally, the day of rekoning, when I had to defend against a group of elite professors and doctors. I was all in for the
+technical aspect of my project. By that, I pushed the demo project to the internet, even the slides are made in a very
+geeky way. The objective was to showcase the strength of engineering, though until now I doubt any member of the board
+realized that.&lt;/p&gt;
+
+&lt;p&gt;In the demo, I chose the popular song at that point &lt;code&gt;We don&#39;t talk anymore&lt;/code&gt; to perform audio watermarking. It was a
+reckless move I rekon. But fortunately it yielded warming results.&lt;/p&gt;
+
+&lt;p&gt;After 6 months doing research, I can firmly say that, I&amp;rsquo;d never do this again, ever. To be fair, it was a nice to have
+and one time only experience, expecially when I&amp;rsquo;m at the gate of adulthood. The returned attributes are invaluable for
+whom intend to apply for post grad school. However, it&amp;rsquo;s not for me.&lt;/p&gt;
+
+&lt;p&gt;I would like to thank Mr. Minh-Nhut Ngo, my instructor, for this wonderful tryout in the DSP field. It gave me nightmares
+sometimes.&lt;/p&gt;
+
+&lt;p&gt;I would like to express gratitude towards the boards, whose kind but precise comments had enhanced my thesis significantly.&lt;/p&gt;
+
+&lt;p&gt;And last but not least, I&amp;rsquo;d like to stop here to go out with my family.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The acid-free letter</title>
@@ -57,26 +174,12 @@ the battles inside my own head. I don&amp;rsquo;t want to hurt your parents feel
       <guid>http://tintrongnguyen.me/posts/20160524/firstbricks/</guid>
       <description>
 
-&lt;p&gt;Hi, welcome to my blog, where I expose my rage.&lt;/p&gt;
-
-&lt;p&gt;First thing first, let&amp;rsquo;s break the ice introducing myself. My name is T&amp;hellip; Oh, I&amp;rsquo;m gonna stop you
-right there. It&amp;rsquo;s better we talk in the dark, or else our ugly prejudgement gonna ruin it. Also, who am I doesn&amp;rsquo;t really
-matter much cause I personally don&amp;rsquo;t seek popularity. So, just call me T. I&amp;rsquo;m an engineer and a writer wannabe.
-Being an software engineer, a profession that most of the time dealing with problems aren&amp;rsquo;t mine, I often get tired and wander around
-doing nonsense things. This is one of those times.
-I&amp;rsquo;m tired of being part of the system, a cog in a giant machine. Seriously, you either become an entrepreneur or end up being the slave.
-It hurts accepting the bare truth. So here I am, writing this bullshit just to calm myself down for awhile.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Why am I doing this? It isn&amp;rsquo;t my own idea. The computer I use isn&amp;rsquo;t even mine&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I know, right? &amp;hellip; But back to point, the reason why I create this blog.&lt;/p&gt;
+&lt;p&gt;The reasons why I created this blog.&lt;/p&gt;
 
 &lt;h2 id=&#34;i-want-to-write&#34;&gt;I want to write.&lt;/h2&gt;
 
 &lt;p&gt;I can feel the urge to write down something that clicks people. I want to do it. And I
-doing it right now. It is the only reason why I&amp;rsquo;m combining my limited vocabularies
+doing it right now. It is one of the main reasons why I&amp;rsquo;m combining my limited vocabularies
 to create something barely works.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/TwRKVsd.gif&#34; alt=&#34;joker&#34; /&gt;&lt;/p&gt;
@@ -85,19 +188,14 @@ to create something barely works.&lt;/p&gt;
 &lt;p&gt;Writing is about eliminating poor choice of words.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;i-want-to-record-my-mind&#34;&gt;I want to record my mind&lt;/h2&gt;
+&lt;h2 id=&#34;i-want-to-record-my-mind&#34;&gt;I want to record my mind.&lt;/h2&gt;
 
-&lt;p&gt;I think everyone is a philosopher to some extent. Some are in depression realizing
-this life is meaningless, while others are taking first steps on the path becoming the next Nietzsche.&lt;/p&gt;
+&lt;p&gt;There are a lot of things happend in a day and it&amp;rsquo;s hard to recall everything. So it&amp;rsquo;s better to have a place where
+you can filter the good stuff and write it down.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Me? Oh, I&amp;rsquo;m just a regular type dude &amp;hellip; with a big-ass dick&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;To create stories, we need materials. It&amp;rsquo;s in everyday life if we know where to look.&lt;/p&gt;
 
-&lt;p&gt;Personally, as my journey goes along, I need somewhere to set milestones. Let&amp;rsquo;s just hope I won&amp;rsquo;t
-go insane proving my sanity.&lt;/p&gt;
-
-&lt;p&gt;Welcome to my blog.&lt;/p&gt;
+&lt;h2 id=&#34;the-idea-of-having-something-your-own-is-liberating&#34;&gt;The idea of having something your own is liberating.&lt;/h2&gt;
 </description>
     </item>
     

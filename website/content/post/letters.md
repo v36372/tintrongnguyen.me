@@ -1,5 +1,5 @@
 +++
-author = "Mr. T"
+author = "Tin NG"
 date = "2016-06-15T23:16:29+07:00"
 description = ""
 tags = []
