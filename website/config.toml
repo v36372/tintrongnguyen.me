@@ -23,7 +23,6 @@ author = "Tin NG"
 # cachebuster = false # FIXME: See issue #32.
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-#description = "Screenwriter wanabe"
 email = "nttin@apcs.vn"
 #faviconfile = "img/favicon.ico"
 #gatracker = "XYZ"
