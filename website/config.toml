@@ -9,7 +9,7 @@ publishdir = "public"
 author = "Tin NG"
 title = "Random blogging"
 pygmentsuseclasses = true
-#disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname = "engineerlearnstowrite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 
 [permalinks]
