@@ -1,4 +1,4 @@
-baseurl = "https://tintrongnguyen.me/" 
+baseurl = "http://tintrongnguyen.me/" 
 builddrafts = false
 theme = "cocoa"
 canonifyurls = true
