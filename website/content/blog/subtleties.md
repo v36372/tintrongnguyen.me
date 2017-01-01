@@ -1,7 +1,7 @@
 +++
 author = "Tin NG"
 date = "2016-12-20T02:40:55+07:00"
-description = "A Naive Practice of Psychology"
+description = "A naive practice of psychology"
 tags = []
 title = "Subtleties"
 

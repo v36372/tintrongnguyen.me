@@ -1,48 +1,37 @@
-baseurl = "http://tintrongnguyen.me/"
-title = "after 2 beers"
-paginate = 5 # The number of posts to show before paginating
-theme = "ghostwriter"
-enableRobotsTXT = true
-googleAnalytics = ""
-#SectionPagesMenu = "main"
-languageCode = "en-us"
-copyright = "T NG"
-disqusShortname = "engineerlearnstowrite"
+baseurl = "https://tintrongnguyen.me/" 
+builddrafts = false
+theme = "cocoa"
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Tin NG"
+title = "Random blogging"
+pygmentsuseclasses = true
+#disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
+pluralizelisttitles = false
 
-[Author]
-    name = "T NG"
-    profile = "http://tintrongnguyen.me/page/about"
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
 
-[Taxonomies]
-    tag = "tags"
+[params]
+author = "Tin NG"
+# gravatar = "" # do not use in the same time as Avatar
+# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+# cachebuster = false # FIXME: See issue #32.
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Screenwriter wanabe"
+email = "nttin@apcs.vn"
+#faviconfile = "img/favicon.ico"
+#gatracker = "XYZ"
+github = "//github.com/v36372"
+highlightjs = true
+# highlightjslanguages = ["go"] # additional languages not included in the "common" set
+initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+lang = "en"
+linkedin = "//linkedin.com/in/tin-nguyen-trong-01448197"
+twitter = "//twitter.com/v36372"
 
-[Params]
-    intro = true
-    HeaderUsername = "iam"
-    HeaderHostname = "tintrongnguyen"
-    headline = "after 2 beers blogging"
-    author = "Tin NG"
-    show_menu = true 
-    powered_by = true
-    description = "Possibly quit coding and invest in writing in the next 10 years."
-    
-    github = "https://github.com/v36372"
-    twitter = "https://twitter.com/v36372"
-
-[Permalinks]
-    post = "posts/:year:month:day/:filename/"
-  
-[[menu.main]]
-    name = "blog"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "contact"
-    url = "/page/contact/"
-    weight = 2
-
-[[menu.main]]
-    name = "about"
-    url = "/page/about/"
-    weight = 3

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page on Learning Blog</title>
-    <link>https://tintrongnguyen.me/page/index.xml</link>
-    <description>Recent content in Page on Learning Blog</description>
+    <title>Fixed on Random blogging</title>
+    <link>https://tintrongnguyen.me/fixed/index.xml</link>
+    <description>Recent content in Fixed on Random blogging</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
-    <atom:link href="https://tintrongnguyen.me/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tintrongnguyen.me/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://tintrongnguyen.me/page/about/</link>
+      <link>https://tintrongnguyen.me/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://tintrongnguyen.me/page/about/</guid>
+      <guid>https://tintrongnguyen.me/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
@@ -41,11 +41,23 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://tintrongnguyen.me/page/contact/</link>
+      <title>Code</title>
+      <link>https://tintrongnguyen.me/code/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://tintrongnguyen.me/page/contact/</guid>
+      <guid>https://tintrongnguyen.me/code/</guid>
+      <description>
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tintrongnguyen.me/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://tintrongnguyen.me/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
